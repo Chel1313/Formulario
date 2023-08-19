@@ -1,0 +1,28 @@
+
+
+form {
+    background-color: rgb(199, 200, 197);
+    border-width:2px;
+    border-style:solid;
+    border-color:rgb(0, 0, 0);
+    width:10%;
+    padding:50px;
+    width: 400px;
+    margin: 0 auto;
+    top: 100px;
+    position: relative;
+
+  }
+  
+  input,
+  button {
+    display: block;
+    margin-bottom: 10px;
+    width: 100%;
+    padding: 5px;
+  }
+  
+  button {
+    background-color: #8a94d3;
+    color: white;
+  }
